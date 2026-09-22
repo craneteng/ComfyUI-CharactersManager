@@ -6,10 +6,10 @@
 ![节点调用截图](https://github.com/craneteng/ComfyUI-CharactersManager/blob/main/screenshots/screenshot1.png)
 
 ### 功能演示
-![管理页面截图1](images/screenshot2.png)
+![管理页面截图1](https://github.com/craneteng/ComfyUI-CharactersManager/blob/main/screenshots/screenshot2.png)
 
-![管理页面截图2](images/screenshot3.png)
+![管理页面截图2](https://github.com/craneteng/ComfyUI-CharactersManager/blob/main/screenshots/screenshot3.png)
 
-![添加角色截图](images/screenshot4.png)
+![添加角色截图](https://github.com/craneteng/ComfyUI-CharactersManager/blob/main/screenshots/screenshot4.png)
 
-![搜索截图](images/screenshot5.png)
+![搜索截图](https://github.com/craneteng/ComfyUI-CharactersManager/blob/main/screenshots/screenshot5.png)
