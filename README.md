@@ -1,2 +1,15 @@
-这是一个comfyui的节点，用于保存和调用角色的全部提示词，并根据你的需求选择是全部调用还是只调用人物形象，不调用发型和衣服，该节点可自行添加和修改删除，刷新后即可使用，也可以直接更改目录下的characters.json文件，批量写入，可以通过连接节点接入clip文本编码，省去了复制粘贴的过程。下方文本框可以自行修改，根据需要增减提示词
-This is a node of comfyui, used to store and retrieve all prompts for characters. You can choose whether to retrieve all prompts or only the character image, without retrieving hairstyle and clothing, according to your needs. This node can be added, modified, and deleted by yourself, and can be used after refreshing. You can also directly modify the characters.json file under the directory and write in batches. You can access clip text encoding through connecting nodes, eliminating the need for copying and pasting. The text box below can be modified by yourself to add or remove prompts as needed
+这是一个ComfyUI节点，用于保存和调用角色的全部提示词，并根据你的需求选择是全部调用还是只调用人物形象，不调用发型和衣服。该节点可自行添加、修改和删除，刷新后即可使用，也可以直接更改目录下的characters.json文件，批量写入。通过连接节点接入CLIP文本编码，省去了复制粘贴的过程。下方文本框可以自行修改，根据需要增减提示词。
+这是 ComfyUI 的一个节点，用于存储和检索所有角色的提示词。您可以根据需要选择检索所有提示词，或者仅检索角色图像，而不检索发型和服装。您可以自行添加、修改和删除此节点，并在刷新后使用。您也可以直接修改目录下的 characters.json 文件并进行批量写入。您可以通过连接节点来访问 CLIP 文本编码，从而无需复制和粘贴。下方的文本框可以由您自行修改，以根据需要添加或删除提示词
+## 项目展示
+
+### 界面预览
+![节点调用截图](images/screenshot1.png)
+
+### 功能演示
+![管理页面截图1](images/screenshot2.png)
+
+![管理页面截图2](images/screenshot3.png)
+
+![添加角色截图](images/screenshot4.png)
+
+![搜索截图](images/screenshot5.png)
