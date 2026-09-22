@@ -1,0 +1,93 @@
+{
+  "原神": {
+    "可莉（琪花星烛）": {
+      "base": "klee \\(blossoming starlight\\) \\(genshin impact\\), genshin impact, 1girl, pointy ears, red eyes, hair between eyes, blonde hair, long hair, ahoge, sidelocks, low twintails, hair ribbon, hair bow, witch hat, black gloves, white shirt, hat bow, red headwear, puffy short sleeves, red bowtie, vision \\(genshin impact\\)",
+      "hair": "",
+      "clothes": ""
+    },
+    "可莉": {
+      "base": "klee \\(genshin impact\\),1girl, pointy ears, hair between eyes, red eyes, orange eyes, long hair, blonde hair, light brown hair, ahoge,",
+      "hair": "low twintails, sidelocks, ",
+      "clothes": "red headwear, cabbie hat, hat feather, brown gloves, long sleeves, clover print,"
+    },
+    "迪奥娜": {
+      "base": "diona \\(genshin impact\\), genshin impact, 1girl, cat girl, loli, cat ears, animal ear fluff, cat tail, green eyes, thick eyebrows, pink hair, short hair, bangs pinned back,forehead,",
+      "hair": "",
+      "clothes": "navel, hat, detached sleeves,"
+    },
+    "七七": {
+      "base": "qiqi \\(genshin impact\\), genshin impact, 1girl, purple eyes, hair between eyes, purple hair, long hair, coin hair ornament, ofuda,",
+      "hair": "braided ponytail, single braid,",
+      "clothes": "hat, purple headwear, white thighhighs, long sleeves, wide sleeves, bead necklace, jiangshi, qingdai guanmao,"
+    },
+    "瑶瑶": {
+      "base": "yaoyao \\(genshin impact\\), genshin impact, 1girl, brown eyes, brown hair, short hair, blunt bangs,",
+      "hair": "bow-shaped hair,braid, sidelocks, hair bell,",
+      "clothes": "chinese clothes, long sleeves, puffy long sleeves, backpack basket, jingle bell"
+    },
+    "早柚": {
+      "base": "sayu \\(genshin impact\\), genshin impact, 1girl, loli, purple eyes, red eyes, short hair, grey hair, blunt bangs,",
+      "hair": "sidelocks,",
+      "clothes": "raccoon ears, raccoon tail, fake animal ears, thighs, short kimono, black gloves, fingerless gloves, black scarf, animal hood, short sleeves, child, ninja, leaf on head,"
+    },
+    "纳西妲": {
+      "base": "nahida \\(genshin impact\\), genshin impact, 1girl, loli, pointy ears, green eyes, hair between eyes, cross-shaped pupils, symbol-shaped pupils, long hair, white hair, green hair, gradient hair, grey hair, leaf hair ornament,",
+      "hair": "side ponytail, sidelocks, hair ornament,",
+      "clothes": "white dress, detached sleeves, toes,"
+    },
+    "多莉": {
+      "base": "dori \\(genshin impact\\), genshin impact, 1girl, yellow eyes, hair between eyes, pink hair, short hair with long locks, ahoge,",
+      "hair": "sidelocks,",
+      "clothes": "red-tinted eyewear, navel, sunglasses, hat, purple headwear, purple pants, black shirt, detached sleeves, bare shoulders, long sleeves, white sleeves, vision \\(genshin impact\\), crop top, pince-nez, midriff"
+    },
+    "希格雯": {
+      "base": "sigewinne \\(genshin impact\\), genshin impact, 1girl, animal ears, red eyes, hair between eyes, eyelashes, blue hair, medium hair, gradient hair, purple hair,crossed bangs,",
+      "hair": "pom pom hair ornament, low twintails, sidelocks,",
+      "clothes": "white gloves, nurse cap, white apron, red bowtie, puffy long sleeves, long sleeves, white hat,"
+    },
+    "卡齐娜": {
+      "base": "kachina \\(genshin impact\\), genshin impact, 1girl, animal ears, blue eyes, short eyebrows, thick eyebrows, very long hair, grey hair, blonde hair, long hair, brown hair, gradient hair, parted bangs,",
+      "hair": "braid, sidelocks, high ponytail, ponytail, side braids,",
+      "clothes": "black shorts, hat, visor cap, jewelry, bare shoulders, bandana around neck, armlet, crop top, midriff, mittens, white mittens, fur trim, green bandana,"
+    },
+    "派蒙": {
+      "base": "paimon \\(genshin impact\\), genshin impact, 1girl, hair between eyes, blue eyes, white hair, short hair,",
+      "hair": "hair ornament, halo,",
+      "clothes": "long sleeves,"
+    }
+  },
+  "崩铁": {
+    "白露": {
+      "base": "bailu \\(honkai: star rail\\), honkai: star rail, 1girl, dragon horns, dragon tail, pointy ears, hair between eyes, blue eyes, aqua eyes, purple hair, long hair, very long hair, blue hair, crossed bangs, ahoge, dragon girl,",
+      "hair": "twin braids, hair tubes,",
+      "clothes": "detached sleeves, long sleeves,"
+    },
+    "希露瓦": {
+      "base": "serval landau, honkai: star rail, 1girl, blue eyes, hair between eyes, blonde hair, streaked hair, long hair, blue hair, large breasts,\n",
+      "hair": "",
+      "clothes": " bare shoulders, black choker, detached sleeves, nail polish, black nails, earrings,"
+    }
+  },
+  "动漫": {
+    "哪吒": {
+      "base": "nezha \\(the legend of luoxiaohei\\), luo xiaohei zhanji, 1boy, black eyes, black hair, long hair,",
+      "hair": "double bun, blunt bangs,",
+      "clothes": "pantyhose under shorts, white shirt, shoes, print shirt, jacket, camouflage shorts, long sleeves"
+    },
+    "无限": {
+      "base": "wuxian \\(the legend of luoxiaohei\\), luo xiaohei zhanji, 1boy, blue eyes, black hair, very long hair, blue hair, low-tied long hair, long hair,",
+      "hair": "",
+      "clothes": "long sleeves"
+    },
+    "绪山真寻": {
+      "base": "oyama mahiro, onii-chan wa oshimai!, 1girl, brown eyes, hair between eyes, pink hair, long hair, grey hair, ahoge，",
+      "hair": "",
+      "clothes": ""
+    },
+    "绪山美波里": {
+      "base": "oyama mihari, onii-chan wa oshimai! , 1girl, brown eyes, hair between eyes, black hair, purple hair, two-tone hair, long hair,medium breasts,",
+      "hair": "twintails, hair ribbon, hairclip,",
+      "clothes": "lab coat, red ribbon, long sleeves"
+    }
+  }
+}
