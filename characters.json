@@ -1,9 +1,9 @@
 {
   "原神": {
-    "可莉（琪花星烛）": {
-      "base": "klee \\(blossoming starlight\\) \\(genshin impact\\), genshin impact, 1girl, pointy ears, red eyes, hair between eyes, blonde hair, long hair, ahoge, sidelocks, low twintails, hair ribbon, hair bow, witch hat, black gloves, white shirt, hat bow, red headwear, puffy short sleeves, red bowtie, vision \\(genshin impact\\)",
-      "hair": "",
-      "clothes": ""
+    "派蒙": {
+      "base": "paimon \\(genshin impact\\), genshin impact, 1girl, hair between eyes, blue eyes, white hair, short hair,",
+      "hair": "hair ornament, halo,",
+      "clothes": "long sleeves,"
     },
     "可莉": {
       "base": "klee \\(genshin impact\\),1girl, pointy ears, hair between eyes, red eyes, orange eyes, long hair, blonde hair, light brown hair, ahoge,",
@@ -50,10 +50,165 @@
       "hair": "braid, sidelocks, high ponytail, ponytail, side braids,",
       "clothes": "black shorts, hat, visor cap, jewelry, bare shoulders, bandana around neck, armlet, crop top, midriff, mittens, white mittens, fur trim, green bandana,"
     },
-    "派蒙": {
-      "base": "paimon \\(genshin impact\\), genshin impact, 1girl, hair between eyes, blue eyes, white hair, short hair,",
-      "hair": "hair ornament, halo,",
-      "clothes": "long sleeves,"
+    "伊安珊": {
+      "base": "genshin iansan, iansan (genshin impact), long hair, very long hair, green eyes, white hair, grey hair, pointy ears, dark skin, dark-skinned female,",
+      "hair": "hair ornament, hair between eyes, ponytail,",
+      "clothes": "long sleeves, gloves, jewelry, earrings, shorts, fur trim, mask, headband, feathers, feather hair ornament, mask on head, orange gloves, tooth necklace,"
+    },
+    "可莉（琪花星烛）": {
+      "base": "klee \\(blossoming starlight\\) \\(genshin impact\\), genshin impact, 1girl, pointy ears, red eyes, hair between eyes, blonde hair, long hair, ahoge, sidelocks, low twintails, hair ribbon, hair bow, witch hat, black gloves, white shirt, hat bow, red headwear, puffy short sleeves, red bowtie, vision \\(genshin impact\\)",
+      "hair": "",
+      "clothes": ""
+    },
+    "荧": {
+      "base": "lumine \\(genshin impact\\), genshin impact, 1girl, yellow eyes, hair between eyes, blonde hair, short hair with long locks,",
+      "hair": "sidelocks, hair flower,",
+      "clothes": " medium breasts, large breasts, cleavage, white dress, bare shoulders"
+    },
+    "茜特拉莉": {
+      "base": "citlali \\(genshin impact\\), genshin impact, 1girl, blue eyes, pink hair, very long hair, long hair,",
+      "hair": " twin braids, braid,",
+      "clothes": " medium breasts, bare shoulders, forehead mark"
+    },
+    "芙宁娜": {
+      "base": "furina \\(genshin impact\\), genshin impact, 1girl, heterochromia, blue eyes, hair between eyes, drop-shaped pupils, white hair, streaked hair, light blue hair, long hair, blue hair, ahoge,",
+      "hair": "",
+      "clothes": " top hat, blue jacket, blue headwear, white gloves, long sleeves"
+    },
+    "归终": {
+      "base": "guizhong \\(genshin impact\\), genshin impact, 1girl, blue eyes, grey hair, short hair with long locks, long hair,  ",
+      "hair": "tassel hair ornament, sidelocks,",
+      "clothes": "thighs, white dress, bare shoulders, detached sleeves, sleeves past fingers, long sleeves, wide sleeves"
+    },
+    "菲谢尔": {
+      "base": "fischl \\(genshin impact\\), genshin impact, 1girl, green eyes, hair over one eye, eyepatch, blonde hair, long hair, ",
+      "hair": "two side up, hair ribbon, ",
+      "clothes": "medium breasts, small breasts, bare shoulders"
+    },
+    "菲谢尔（极夜真梦）": {
+      "base": "fischl \\(ein immernachtstraum\\) \\(genshin impact\\), genshin impact, 1girl, red eyes, hair over one eye, eyepatch, blonde hair, long hair, hair ribbon, purple dress, white thighhighs, bare shoulders, detached sleeves, long sleeves, tiara",
+      "hair": "",
+      "clothes": ""
+    },
+    "胡桃": {
+      "base": "hu tao \\(genshin impact\\), genshin impact, 1girl, red eyes, hair between eyes, flower-shaped pupils, brown hair, very long hair, long hair,  ",
+      "hair": "twintails,",
+      "clothes": "thighs, hat flower, black headwear, long sleeves, black nails, nail polish, ghost"
+    },
+    "胡桃（罗森联动）": {
+      "base": "hu tao \\(lawson\\) \\(genshin impact\\), genshin impact, 1girl, red eyes, hair between eyes, flower-shaped pupils, unworn eyewear, eyewear hang, brown hair, very long hair, long hair, blue hairband, twintails, sidelocks, blue jacket, blue skirt, open jacket, pleated skirt, sunglasses, white shirt, black pantyhose, off-shoulder shirt, long sleeves, black nails, nail polish, ghost",
+      "hair": "",
+      "clothes": ""
+    },
+    "玛薇卡": {
+      "base": "mavuika \\(genshin impact\\), genshin impact, 1girl, orange eyes, symbol-shaped pupils, red hair, orange hair, very long hair,  ahoge, ",
+      "hair": "two-tone hair,",
+      "clothes": "large breasts, cleavage, sunglasses, black gloves, earrings"
+    },
+    "玛拉妮": {
+      "base": "mualani \\(genshin impact\\), genshin impact, 1girl, dark skin, red eyes, orange eyes, long hair, white hair, grey hair, light blue hair,  ",
+      "hair": "blue hairband, low twin braids, braid,",
+      "clothes": "small breasts, thighs, navel, fingerless gloves, bare shoulders, midriff, stomach"
+    },
+    "妮露": {
+      "base": "nilou \\(genshin impact\\), genshin impact, 1girl, fake horns, aqua eyes, blue eyes, red hair, long hair, very long hair, ",
+      "hair": "parted bangs, low twintails, sidelocks,",
+      "clothes": "medium breasts, thighs, navel, harem outfit, veil, white veil, white headwear, blue skirt, detached sleeves, puffy long sleeves, bare shoulders, neck ring, circlet, stomach, brooch, crop top, bracer"
+    },
+    "妮露（莎邦之息）": {
+      "base": "nilou \\(breeze of sabaa\\) \\(genshin impact\\), genshin impact, 1girl, aqua eyes, red hair, very long hair, parted bangs, double bun, hair flower, medium breasts, white dress, sleeveless dress, detached sleeves, bare shoulders, white sleeves, circlet",
+      "hair": "",
+      "clothes": ""
+    },
+    "大慈树王": {
+      "base": "rukkhadevata \\(genshin impact\\), genshin impact, 1girl, pointy ears, green eyes, hair between eyes, cross-shaped pupils, symbol-shaped pupils, white hair, green hair, very long hair, gradient hair, long hair, streaked hair, leaf hair ornament, ahoge,",
+      "hair": "sidelocks, single braid, braid,",
+      "clothes": "large breasts, cleavage, white dress, strapless dress, bare shoulders, detached sleeves, gold trim"
+    },
+    "桑多涅": {
+      "base": "sandrone \\(genshin impact\\), genshin impact, 1girl, blue eyes, short hair with long locks, brown hair, blonde hair, ",
+      "hair": "sidelocks,",
+      "clothes": "fur-trimmed coat, white gloves, headdress"
+    },
+    "珊瑚宫心海": {
+      "base": "sangonomiya kokomi, genshin impact, 1girl, purple eyes, blue eyes, pink hair, bow-shaped hair, gradient hair, long hair, blue hair, very long hair, blunt bangs,",
+      "hair": " hair ornament,",
+      "clothes": " navel, white gloves, white thighhighs, bare shoulders, wide sleeves, fish, colored tips"
+    },
+    "香菱": {
+      "base": "xiangling \\(genshin impact\\), genshin impact, 1girl, yellow eyes, thick eyebrows, short hair, blue hair,",
+      "hair": "braided hair rings, braid, twin braids, hair rings, hairclip,",
+      "clothes": "small breasts, thighs, china dress, fingerless gloves, bare shoulders"
+    },
+    "空": {
+      "base": "aether \\(genshin impact\\), genshin impact, 1boy, hair between eyes, yellow eyes, blonde hair, long hair, ahoge,",
+      "hair": " single braid, single earring",
+      "clothes": ""
+    },
+    "重云": {
+      "base": "chongyun \\(genshin impact\\), genshin impact, 1boy, blue eyes, hair between eyes, short hair, light blue hair, blue hair, ahoge, ",
+      "hair": "",
+      "clothes": "chinese clothes, fingerless gloves"
+    },
+    "嘉明": {
+      "base": "gaming \\(genshin impact\\), genshin impact, 1boy, hair between eyes, brown eyes, brown hair, red hair, multicolored hair, ahoge, hair intakes,",
+      "hair": "",
+      "clothes": " mole on neck, chinese clothes, black gloves, fingerless gloves, hooded jacket, red shirt, tassel, long sleeves"
+    },
+    "万叶": {
+      "base": "kaedehara kazuha, genshin impact, 1boy, red eyes, hair between eyes, streaked hair, red hair, white hair, antenna hair, grey hair,  ",
+      "hair": "ponytail, crossed bangs,",
+      "clothes": "japanese clothes, fingerless gloves, black gloves, tassel, bandaged hand"
+    },
+    "米卡": {
+      "base": "mika \\(genshin impact\\), genshin impact, 1boy, blue eyes, hair between eyes, blonde hair, short hair, ahoge,  ",
+      "hair": "short ponytail,",
+      "clothes": "blue jacket, white hoodie, black gloves, long sleeves, hood down, yellow necktie, vision \\(genshin impact\\)"
+    },
+    "那维莱特": {
+      "base": "neuvillette \\(genshin impact\\), genshin impact, 1boy, pointy ears, hair between eyes, purple eyes, streaked hair, white hair, blue hair, long hair, very long hair, grey hair, ",
+      "hair": "low-tied long hair, asymmetrical bangs, parted bangs, sidelocks, ",
+      "clothes": " black gloves, blue coat, long sleeves, frilled sleeves, white ascot, brooch, lapels, gold trim"
+    },
+    "温迪（神）": {
+      "base": "venti \\(archon\\) \\(genshin impact\\), genshin impact, 1boy, green eyes, blue eyes, black hair, gradient hair, blue hair, short hair with long locks, twin braids, hair flower, chest tattoo, leg tattoo, navel, hooded capelet, white shorts, elbow gloves, white thighhighs, hood down, feathered wings, white wings, crop top, midriff, bridal gauntlets",
+      "hair": "",
+      "clothes": ""
+    },
+    "温迪": {
+      "base": "venti \\(genshin impact\\), genshin impact, 1boy, green eyes, black hair, gradient hair, blue hair, short hair with long locks,",
+      "hair": "twin braids, hair flower,",
+      "clothes": "green headwear, white shirt, hat flower, collared cape, long sleeves, frilled sleeves, beret"
+    },
+    "行秋": {
+      "base": "xingqiu \\(genshin impact\\), genshin impact, 1boy, yellow eyes, blue hair, short hair, ",
+      "hair": "",
+      "clothes": "chinese clothes, long sleeves, frilled sleeves, tassel earrings, single earring"
+    },
+    "钟离（神）": {
+      "base": "zhongli \\(archon\\) \\(genshin impact\\), genshin impact, 1boy, hair between eyes, yellow eyes, red eyeshadow, brown hair, black hair, long hair, gradient hair, orange hair, ponytail, arm tattoo, hooded coat, hooded cloak, hood up, sleeveless, tassel earrings, eyeliner, single earring",
+      "hair": "",
+      "clothes": ""
+    },
+    "钟离": {
+      "base": "zhongli \\(genshin impact\\), genshin impact, 1boy, hair between eyes, yellow eyes, brown hair, long hair, gradient hair, black hair, orange hair,  ",
+      "hair": "ponytail,",
+      "clothes": "suit, black gloves, jacket, collared shirt, tassel earrings, long sleeves, formal, eyeliner, single earring"
+    },
+    "散兵": {
+      "base": "scaramouche \\(genshin impact\\), genshin impact, 1boy, purple eyes, hair between eyes, blue eyes, red eyeshadow, short hair, purple hair, black hair,",
+      "hair": "blunt ends,",
+      "clothes": " japanese clothes, black shirt, short sleeves, "
+    },
+    "散兵（倾奇者）": {
+      "base": "scaramouche \\(kabukimono\\) \\(genshin impact\\), genshin impact, 1boy, hand up, purple eyes, hair between eyes, red eyeshadow, short hair, purple hair, black hair,",
+      "hair": "blunt ends,",
+      "clothes": " japanese clothes, purple shirt, pom pom \\(clothes\\), veil, white vest, wide sleeves, long sleeves, detached sleeves, mandarin collar, fingernails, "
+    },
+    "流浪者": {
+      "base": "wanderer \\(genshin impact\\), genshin impact, 1boy, purple eyes, hair between eyes, blue eyes, red eyeshadow, short hair, purple hair, black hair, ",
+      "hair": "parted bangs,blunt ends, ",
+      "clothes": " japanese clothes, black shirt, black shorts, sleeveless shirt, mandarin collar, short sleeves, vision \\(genshin impact\\), jingasa"
     }
   },
   "崩铁": {
@@ -62,32 +217,421 @@
       "hair": "twin braids, hair tubes,",
       "clothes": "detached sleeves, long sleeves,"
     },
+    "缇宝": {
+      "base": "tribbie_(honkai:_star_rail), honkai:_star_rail,1girl,red hair, long hair, blunt bangs, blue eyes, cross-shaped pupils, pointy ears,",
+      "hair": "sidelocks, single_braid,braid,hairband,flower,flower hair_ornament,",
+      "clothes": "white dress, frilled dress, black gloves, golden angel wings, winged halo, jewelry, bare shoulders,"
+    },
+    "符玄": {
+      "base": "fu xuan \\(honkai: star rail\\), honkai \\(series\\), 1girl, yellow eyes, pink eyes, pink hair, bow-shaped hair, very long hair, long hair,",
+      "hair": "parted bangs, low twintails, hair stick, hair rings, ",
+      "clothes": " bare shoulders, detached sleeves, tassel, forehead jewel"
+    },
+    "藿藿": {
+      "base": "huohuo \\(honkai: star rail\\), honkai \\(series\\), 1girl, fox girl, fox ears, fox tail, green eyes, paw-shaped pupils, symbol-shaped pupils, green hair, long hair,  ahoge, ",
+      "hair": "yin yang hair ornament, hair ornament,",
+      "clothes": "hat, long sleeves, bare shoulders, yin yang"
+    },
+    "克拉拉": {
+      "base": "clara \\(honkai: star rail\\), honkai: star rail, 1girl, red eyes, hair between eyes, pink eyes, white hair, long hair, grey hair, very long hair, ",
+      "hair": " sidelocks, hair intakes,",
+      "clothes": "feet, legs, barefoot, red jacket, red coat, long sleeves"
+    },
+    "佩拉": {
+      "base": "pela \\(honkai: star rail\\), honkai \\(series\\), 1girl, blue eyes, glasses, long hair, blue hair, purple hair, ",
+      "hair": "round eyewear, ",
+      "clothes": "hat tassel, black gloves, black headwear, black pantyhose, elbow gloves, beret, blue neckerchief, black hat"
+    },
+    "云璃": {
+      "base": "yunli \\(honkai: star rail\\), honkai \\(series\\), 1girl, hair between eyes, yellow eyes, orange eyes, long hair, grey hair,  ",
+      "hair": "low twintails, hairclip,",
+      "clothes": "chinese clothes, detached sleeves, bare shoulders, short sleeves, detached collar, headpiece, stomach"
+    },
+    "流萤": {
+      "base": "firefly \\(honkai: star rail\\), honkai \\(series\\), 1girl, hair between eyes, purple eyes, grey hair, long hair, ",
+      "hair": "black hairband, hair intakes,",
+      "clothes": " white shirt, black jacket, long sleeves"
+    },
+    "三月七": {
+      "base": "march 7th \\(honkai: star rail\\), honkai \\(series\\), 1girl, blue eyes, pink eyes, two-tone eyes, hair between eyes, pink hair, medium hair,",
+      "hair": "",
+      "clothes": " medium breasts, collarbone, white shirt, blue jacket, tied jacket, blue skirt, black gloves, long sleeves, black choker, single earring, buttons"
+    },
     "希露瓦": {
       "base": "serval landau, honkai: star rail, 1girl, blue eyes, hair between eyes, blonde hair, streaked hair, long hair, blue hair, large breasts,\n",
       "hair": "",
       "clothes": " bare shoulders, black choker, detached sleeves, nail polish, black nails, earrings,"
+    },
+    "三月七（巡猎）": {
+      "base": "march 7th \\(hunt\\) \\(honkai: star rail\\), honkai: star rail, 1girl, blue eyes, two-tone eyes, pink eyes, purple eyes, pink pupils, pink hair, medium hair, ",
+      "hair": " official alternate hairstyle,",
+      "clothes": "medium breasts, chinese clothes, black gloves, fingerless gloves, black dress, blue belt, jingle bell, hairpin, single earring"
+    },
+    "砂金": {
+      "base": "aventurine \\(honkai: star rail\\), honkai \\(series\\), 1boy, hair between eyes, purple eyes, multicolored eyes, blonde hair, short hair,",
+      "hair": "",
+      "clothes": " neck tattoo, collared shirt, black gloves, aqua shirt, black jacket, earrings, bracelet, pectoral cleavage, fur trim"
+    },
+    "彦卿": {
+      "base": "yanqing \\(honkai: star rail\\), honkai: star rail, 1boy, yellow eyes, long hair, blonde hair, ahoge, ",
+      "hair": " ponytail, parted bangs, sidelocks,",
+      "clothes": "chinese clothes, fingerless gloves, long sleeves"
     }
   },
-  "动漫": {
-    "哪吒": {
-      "base": "nezha \\(the legend of luoxiaohei\\), luo xiaohei zhanji, 1boy, black eyes, black hair, long hair,",
-      "hair": "double bun, blunt bangs,",
-      "clothes": "pantyhose under shorts, white shirt, shoes, print shirt, jacket, camouflage shorts, long sleeves"
+  "鸣潮": {
+    "安可": {
+      "base": "encore \\(wuthering waves\\), wuthering waves, 1girl, purple eyes, hair between eyes, blue eyes, cross-shaped pupils, pink pupils, eyelashes, thick eyebrows, pink hair, long hair, ahoge,",
+      "hair": " low twintails, hair intakes, sidelocks, hair bow, hair bobbles, hairclip, ",
+      "clothes": "white dress, black dress, two-tone dress, pink skirt, short sleeves, pink bowtie, gold trim, white arm warmers, black arm warmers, arm warmers"
+    },
+    "维里奈": {
+      "base": "verina \\(wuthering waves\\), wuthering waves, 1girl, upper teeth only, green eyes, eyelashes, blonde hair, very long hair, green hair, long hair,  ",
+      "hair": "green hairband, twintails, sidelocks,",
+      "clothes": "collarbone, chinese clothes, green dress, white gloves, fingerless gloves, white shorts, green footwear, sleeveless dress, bare shoulders, green bow, green ribbon, black choker, flower earrings"
+    }
+  },
+  "罗小黑战记": {
+    "罗小黑（白发）": {
+      "base": "luo xiaohei \\(human\\), luo xiaohei zhanji, 1boy, cat boy,black and green cat ears,black cat tail, green eyes, short hair, white hair,",
+      "hair": "",
+      "clothes": "short sleeves"
+    },
+    "罗小黑（黑发）": {
+      "base": " luo xiaohei \\(human\\), luo xiaohei zhanji, 1boy, cat boy,black and green cat ears,black cat tail, green eyes, short hair, black hair, ",
+      "hair": "",
+      "clothes": "short sleeves"
     },
     "无限": {
       "base": "wuxian \\(the legend of luoxiaohei\\), luo xiaohei zhanji, 1boy, blue eyes, black hair, very long hair, blue hair, low-tied long hair, long hair,",
       "hair": "",
       "clothes": "long sleeves"
     },
+    "哪吒": {
+      "base": "nezha \\(the legend of luoxiaohei\\), luo xiaohei zhanji, 1boy, black eyes, black hair, long hair,",
+      "hair": "double bun, blunt bangs,",
+      "clothes": "pantyhose under shorts, white shirt, shoes, print shirt, jacket, camouflage shorts, long sleeves"
+    }
+  },
+  "点兔": {
+    "香风智乃": {
+      "base": "kafuu chino, gochuumon wa usagi desu ka?, 1girl, blue eyes, hair between eyes, blue hair, long hair, very long hair,",
+      "hair": " x hair ornament",
+      "clothes": ""
+    },
+    "保登心爱": {
+      "base": "hoto cocoa, gochuumon wa usagi desu ka?, 1girl, purple eyes, hair between eyes, orange hair, short hair, brown hair, hairclip,",
+      "hair": "",
+      "clothes": ""
+    },
+    "天天座理世": {
+      "base": "tedeza rize, gochuumon wa usagi desu ka?, 1girl, purple eyes, hair between eyes, purple hair, long hair, very long hair, twintails,",
+      "hair": "",
+      "clothes": ""
+    },
+    "条河麻耶": {
+      "base": "jouga maya, gochuumon wa usagi desu ka?, 1girl, loli, fang, yellow eyes, brown eyes, short hair, blue hair, ",
+      "hair": "",
+      "clothes": ""
+    },
+    "奈津惠": {
+      "base": "natsu megumi, gochuumon wa usagi desu ka?, 1girl, red eyes, brown eyes, red hair, long hair,",
+      "hair": " twintails, low twintails,",
+      "clothes": ""
+    },
+    "风衣夜冬优": {
+      "base": "fuiba fuyu, gochuumon wa usagi desu ka?, 1girl, blue eyes, blue hair, short hair, black hair, hairclip",
+      "hair": "",
+      "clothes": ""
+    },
+    "间桐纱路": {
+      "base": "kirima syaro, gochuumon wa usagi desu ka?, 1girl,  blue eyes, green eyes, blonde hair, short hair,  ",
+      "hair": "rabbit ears, fake animal ears,black hairband, frilled hairband,",
+      "clothes": "fleur de lapin uniform, white shirt, puffy short sleeves"
+    }
+  },
+  "别当欧尼酱了": {
     "绪山真寻": {
       "base": "oyama mahiro, onii-chan wa oshimai!, 1girl, brown eyes, hair between eyes, pink hair, long hair, grey hair, ahoge，",
       "hair": "",
       "clothes": ""
     },
+    "穗月椛": {
+      "base": "hozuki momiji, onii-chan wa oshimai!, 1girl, brown eyes, red eyes, brown hair, two-tone hair, blue hair, short hair, colored inner hair, blunt bangs,  blunt ends,",
+      "hair": "short ponytail,",
+      "clothes": "long sleeves,"
+    },
+    "樱花朝日": {
+      "base": "oka asahi, onii-chan wa oshimai!, 1girl, fang, green eyes, brown hair, two-tone hair, short hair, colored inner hair, orange hair,  hair intakes, ",
+      "hair": "two side up,",
+      "clothes": "long sleeves"
+    },
+    "室崎美夜": {
+      "base": "murosaki miyo, onii-chan wa oshimai!, 1girl, brown eyes, hair between eyes, red eyes, brown hair, red hair, long hair, two-tone hair, ",
+      "hair": "low twintails,",
+      "clothes": " large breasts, long sleeves, dot nose"
+    },
     "绪山美波里": {
       "base": "oyama mihari, onii-chan wa oshimai! , 1girl, brown eyes, hair between eyes, black hair, purple hair, two-tone hair, long hair,medium breasts,",
       "hair": "twintails, hair ribbon, hairclip,",
       "clothes": "lab coat, red ribbon, long sleeves"
+    }
+  },
+  "龙王的工作": {
+    "雏鹤爱": {
+      "base": "hinatsuru ai, ryuuou no oshigoto!, 1girl, loli, blue eyes, brown hair, very long hair,  ahoge,",
+      "hair": " low twintails,",
+      "clothes": " school uniform, blue dress, white headwear, short over long sleeves, puffy short sleeves, beret"
+    }
+  },
+  "天使降临到我身边": {
+    "星野日向": {
+      "base": "hoshino hinata, watashi ni tenshi ga maiorita!, 1girl, fang, red eyes, hair between eyes, brown hair, short hair, ",
+      "hair": "",
+      "clothes": "school uniform, white shirt, blue dress, long sleeves,"
+    },
+    "白咲花": {
+      "base": "shirosaki hana, watashi ni tenshi ga maiorita!, 1girl, blue eyes, hair between eyes, black hair, very long hair, long hair,",
+      "hair": "hair flower,",
+      "clothes": " school uniform, white shirt, long sleeves"
+    },
+    "种村小依": {
+      "base": "tanemura koyori, watashi ni tenshi ga maiorita!, 1girl, fang, purple eyes, very long hair, pink hair, red hair, ",
+      "hair": "x hair ornament, twintails, ",
+      "clothes": "school uniform, white shirt, long sleeves"
+    },
+    "姬坂乃爱": {
+      "base": "himesaka noa, watashi ni tenshi ga maiorita!, 1girl, loli, green eyes, thick eyebrows, blonde hair, long hair, very long hair,ahoge,",
+      "hair": " ponytail,  hair bow, ",
+      "clothes": " school uniform, red bow,"
+    },
+    "小之森夏音": {
+      "base": "konomori kanon, watashi ni tenshi ga maiorita!, 1girl, hair between eyes, brown eyes, brown hair, light brown hair, short hair, ahoge, ",
+      "hair": "",
+      "clothes": "school uniform, white shirt, blue dress, sleeveless dress, white sailor collar, long sleeves, red bow"
+    },
+    "星野宫子": {
+      "base": "hoshino miyako \\(wataten\\), watashi ni tenshi ga maiorita!, 1girl, red eyes, hair over one eye, brown hair, short hair,",
+      "hair": "",
+      "clothes": "track suit, red track suit, track jacket, red jacket, long sleeves"
+    }
+  },
+  "魔法禁书目录": {
+    "Index": {
+      "base": "index \\(toaru majutsu no index\\), toaru majutsu no index, 1girl, nun, green eyes, long hair, blue hair, grey hair,",
+      "hair": "",
+      "clothes": " habit, safety pin, white dress"
+    },
+    "最后之作": {
+      "base": "last order \\(toaru majutsu no index\\), toaru majutsu no index, 1girl, brown eyes, brown hair, short hair, ahoge",
+      "hair": "",
+      "clothes": ""
+    },
+    "御坂美琴": {
+      "base": "misaka mikoto, toaru majutsu no index, 1girl, brown eyes, brown hair, short hair, medium hair, ",
+      "hair": "",
+      "clothes": "small breasts, tokiwadai school uniform"
+    },
+    "佐天泪子": {
+      "base": "saten ruiko, toaru majutsu no index, 1girl, blue eyes, green eyes, black hair, long hair,  ",
+      "hair": "hair flower,",
+      "clothes": "medium breasts, sakugawa school uniform, serafuku, summer uniform"
+    },
+    "白井黑子": {
+      "base": "shirai kuroko, toaru majutsu no index, 1girl, brown eyes, brown hair, long hair,",
+      "hair": " twintails, hair bow, ",
+      "clothes": "small breasts, tokiwadai school uniform, summer uniform"
+    },
+    "月咏小萌": {
+      "base": "tsukuyomi komoe, toaru majutsu no index, 1girl, pink eyes, pink hair, short hair",
+      "hair": "",
+      "clothes": ""
+    },
+    "初春饰利": {
+      "base": "uiharu kazari, toaru majutsu no index, 1girl, brown eyes, short hair, black hair, ",
+      "hair": "hair flower, head wreath,",
+      "clothes": "sakugawa school uniform, serafuku, summer uniform,"
+    }
+  },
+  "魔卡少女樱": {
+    "大道世知世": {
+      "base": "daidouji tomoyo, cardcaptor sakura, 1girl, purple eyes, long hair, black hair, purple hair, blunt bangs, ",
+      "hair": "",
+      "clothes": "tomoeda elementary school uniform, serafuku, long sleeves"
+    },
+    "木之本樱": {
+      "base": "kinomoto sakura, cardcaptor sakura, 1girl, green eyes, brown hair, short hair, antenna hair, ",
+      "hair": "",
+      "clothes": "magical girl"
+    },
+    "李莓玲": {
+      "base": "li meiling, cardcaptor sakura, 1girl, red eyes, long hair, black hair,",
+      "hair": " double bun, twintails, blunt bangs, hair ribbon,",
+      "clothes": " chinese clothes, long sleeves"
+    },
+    "李小狼": {
+      "base": "li syaoran, cardcaptor sakura, 1boy, brown eyes, brown hair, short hair,child,",
+      "hair": "",
+      "clothes": "chinese clothes, hat, green headwear, long sleeves,"
+    }
+  },
+  "魔法少女小圆": {
+    "晓美焰": {
+      "base": "akemi homura \\(magical girl\\), mahou shoujo madoka magica, 1girl, purple eyes, black hair, long hair,",
+      "hair": "hairband,",
+      "clothes": "black pantyhose, argyle clothes, long sleeves, magical girl"
+    },
+    "晓美焰（恶魔）": {
+      "base": "akuma homura, mahou shoujo madoka magica, 1girl, purple eyes, black hair, long hair,",
+      "hair": "hair bow,",
+      "clothes": "elbow gloves, black gloves, thighhighs, black dress, argyle clothes, bare shoulders, choker, feathered wings, black wings"
+    },
+    "鹿目圆": {
+      "base": "kaname madoka \\(magical girl\\), mahou shoujo madoka magica, 1girl, pink eyes, pink hair, short hair,",
+      "hair": "short twintails, hair bow,",
+      "clothes": "white gloves, bubble skirt, puffy short sleeves, magical girl"
+    },
+    "美树沙耶香": {
+      "base": "miki sayaka \\(magical girl\\), mahou shoujo madoka magica, 1girl, blue eyes, blue hair, short hair,",
+      "hair": "musical note hair ornament, hairclip,",
+      "clothes": " white gloves, white cape, white thighhighs, blue skirt, pleated skirt, detached sleeves, zettai ryouiki, frills, magical girl, soul gem, strapless"
+    },
+    "百江渚": {
+      "base": "momoe nagisa, mahou shoujo madoka magica, 1girl, yellow eyes, white hair, long hair,",
+      "hair": " two side up,",
+      "clothes": " magical girl"
+    },
+    "佐仓杏子": {
+      "base": "sakura kyoko, mahou shoujo madoka magica, 1girl, red eyes, red hair, long hair,  ",
+      "hair": "ponytail, hair bow,",
+      "clothes": "magical girl"
+    },
+    "巴麻美": {
+      "base": "tomoe mami \\(magical girl\\), mahou shoujo madoka magica, 1girl, yellow eyes, blonde hair, long hair,",
+      "hair": "twintails, hair ornament,",
+      "clothes": "large breasts, fingerless gloves, striped clothes, striped thighhighs, vertical-striped clothes, detached sleeves, twin drills, magical girl, beret, corset"
+    },
+    "鹿目圆（圆环之理）": {
+      "base": "ultimate madoka, mahou shoujo madoka magica, 1girl, yellow eyes, pink hair, very long hair, long hair,",
+      "hair": "two side up, hair bow, hair ribbon,",
+      "clothes": "white gloves, white dress, wings, magical girl"
+    }
+  },
+  "从零开始的异世界之旅": {
+    "碧翠丝": {
+      "base": "beatrice \\(re:zero\\), re:zero kara hajimeru isekai seikatsu, 1girl, loli, blue eyes, symbol-shaped pupils, butterfly-shaped pupils, blonde hair, long hair,  ",
+      "hair": "sidelocks, twintails, hair ribbon,",
+      "clothes": "red capelet, striped clothes, fur-trimmed capelet, long sleeves, twin drills, mini crown"
+    },
+    "拉姆": {
+      "base": "ram \\(re:zero\\), re:zero kara hajimeru isekai seikatsu, 1girl, maid, maid headdress, red eyes, pink eyes, hair over one eye, pink hair, short hair,",
+      "hair": " x hair ornament, hair ribbon,",
+      "clothes": "roswaal mansion maid uniform, detached sleeves"
+    },
+    "蕾姆": {
+      "base": "rem \\(re:zero\\), re:zero kara hajimeru isekai seikatsu, 1girl, maid, maid headdress, blue eyes, hair over one eye, blue hair, short hair, ",
+      "hair": "x hair ornament, hair ribbon,",
+      "clothes": "cleavage, roswaal mansion maid uniform, detached sleeves"
+    }
+  },
+  "学园孤岛": {
+    "丈枪由纪": {
+      "base": "takeya yuki, gakkou gurashi!, 1girl, pink eyes, red eyes, pink hair, short hair,  ",
+      "hair": "x hair ornament, hairclip,",
+      "clothes": "megurigaoka high school uniform, animal hat, beanie"
+    },
+    "惠飞须泽胡桃": {
+      "base": "ebisuzawa kurumi, gakkou gurashi!, 1girl, purple eyes, purple hair, long hair, very long hair,  ",
+      "hair": "twintails, hair ribbon,",
+      "clothes": "megurigaoka high school uniform, fingerless gloves, shovel"
+    },
+    "直树美纪": {
+      "base": "naoki miki, gakkou gurashi!, 1girl, blue eyes, hair between eyes, short hair, blonde hair, ",
+      "hair": "",
+      "clothes": "megurigaoka high school uniform"
+    },
+    "若狭悠里": {
+      "base": "wakasa yuuri, gakkou gurashi!, 1girl, yellow eyes, green eyes, mole under eye, brown hair, long hair, ",
+      "hair": "folded hair, hairclip,",
+      "clothes": " large breasts, megurigaoka high school uniform"
+    },
+    "佐仓慈": {
+      "base": "sakura megumi, gakkou gurashi!, 1girl, pink hair, long hair, ahoge,",
+      "hair": " hairclip",
+      "clothes": ""
+    }
+  },
+  "萝球社": {
+    "袴田日向": {
+      "base": "hakamada hinata, rou-kyuu-bu!, 1girl, loli, pink eyes, pink hair, very long hair,",
+      "hair": "",
+      "clothes": " gym uniform"
+    },
+    "凑智花": {
+      "base": "minato tomoka, rou-kyuu-bu!, 1girl, purple eyes, pink eyes, short hair, purple hair, pink hair,  ",
+      "hair": "side ponytail,ribbon, one side up，",
+      "clothes": "gym uniform, bike shorts"
+    },
+    "三泽真帆": {
+      "base": "misawa maho, rou-kyuu-bu!, 1girl, fang, blue eyes, green eyes, blonde hair, long hair,  ",
+      "hair": "twintails,",
+      "clothes": "gym uniform, bike shorts,"
+    },
+    "永冢纱季": {
+      "base": "nagatsuka saki, rou-kyuu-bu!, 1girl, loli, purple eyes, glasses, blue hair, very long hair, long hair,  ",
+      "hair": "twin braids, twintails,",
+      "clothes": "flat chest, gym uniform"
+    }
+  },
+  "其他": {
+    "夏娜": {
+      "base": "shana, shakugan no shana, 1girl, red eyes, hair between eyes, red hair, long hair, very long hair, black hair, ahoge",
+      "hair": "",
+      "clothes": ""
+    },
+    "康娜": {
+      "base": "kanna kamui, kobayashi-san chi no maidragon, 1girl, loli, dragon horns, tail, blue eyes, long hair, purple hair, gradient hair, light purple hair, blunt bangs,dragon girl,",
+      "hair": "low twintails, twintails, hair beads, hairband,",
+      "clothes": "white thighhighs, "
+    },
+    "阿尼亚": {
+      "base": "anya \\(spy x family\\), spy x family, 1girl, loli, green eyes, pink hair, medium hair, short hair, ahoge, child,",
+      "hair": "hairpods,",
+      "clothes": "eden academy school uniform, black dress, "
+    },
+    "血小板": {
+      "base": "platelet \\(hataraku saibou\\), hataraku saibou, 1girl, loli, brown eyes, hair between eyes, brown hair, very long hair, long hair, ",
+      "hair": "",
+      "clothes": "blue shirt, flat cap, white headwear, short sleeves"
+    },
+    "冈崎汐": {
+      "base": "okazaki ushio, clannad, 1girl, brown eyes, brown hair, short hair,child",
+      "hair": "",
+      "clothes": "school uniform, sailor dress,"
+    },
+    "月宫亚由": {
+      "base": "tsukimiya ayu, kanon, 1girl, red eyes, brown hair, short hair, ",
+      "hair": " hairband,",
+      "clothes": "wings, backpack, brown mittens"
+    },
+    "琴浦春香": {
+      "base": "kotoura haruka, kotoura-san, 1girl, orange eyes, short hair, orange hair, ",
+      "hair": "",
+      "clothes": "serafuku"
+    },
+    "凸守早苗": {
+      "base": "dekomori sanae, chuunibyou demo koi ga shitai!, 1girl, blue eyes, blonde hair, long hair,",
+      "hair": "twintails,",
+      "clothes": "icho private high school uniform"
+    },
+    "小鸟游六花": {
+      "base": "takanashi rikka, chuunibyou demo koi ga shitai!, 1girl, blue eyes, medical eyepatch, short hair, black hair, blue hair, ahoge, ",
+      "hair": " hair ribbon,",
+      "clothes": "icho private high school uniform, black thighhighs, plaid skirt, one side up"
+    },
+    "乌贼娘": {
+      "base": "ikamusume, shinryaku! ikamusume, 1girl, blue eyes, blue hair, tentacle hair, long hair, ",
+      "hair": "",
+      "clothes": "hat, dress"
     }
   }
 }
