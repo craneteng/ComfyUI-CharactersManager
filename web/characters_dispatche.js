@@ -76,8 +76,10 @@ app.registerExtension({
                 } else {
                     const chars = Object.keys(allData[selectedGroup]);
                     wChar.options.values = ["", ...chars];
-                    // 如果当前选择的角色不在新分组中，自动选中第一个角色
-                    if (!wChar.options.values.includes(wChar.value)) {
+                    // 【修复】wChar.value === "" 时也必须触发自动选中第一个角色
+                    // 因为 "" 始终是 options.values 的第一个元素，includes("") 永远返回 true
+                    // 导致首次加载和切换分组时（从未手动选过角色）角色菜单为空
+                    if (wChar.value === "" || !wChar.options.values.includes(wChar.value)) {
                         wChar.value = chars[0] || "";
                     }
                 }
@@ -149,6 +151,19 @@ app.registerExtension({
             await loadData();
             updateGroups();
 
+            // 【新增】使用 setTimeout 延迟执行，等前面代码全部跑完（包括清空列表）后，
+            // 再模拟切换分组，触发 wGroup.callback 自动加载角色列表
+            // 这样我们的赋值发生在 ComfyUI 内部处理完成之后，自然就是有效的
+            setTimeout(() => {
+                const groups = Object.keys(allData);
+                if (groups.length > 0 && wGroup) {
+                    wGroup.value = groups[0];
+                    if (wGroup.callback) {
+                        wGroup.callback(groups[0], wGroup);
+                    }
+                }
+            }, 0);
+
             // ============ 8. 接收数据更新信号，重新加载并刷新下拉菜单 ============
             window.addEventListener("comfy-characters-data-updated", async () => {
                 await loadData();
@@ -165,11 +180,10 @@ app.registerExtension({
                 if (wChar) {
                     if (selectedGroup && allData[selectedGroup]) {
                         const chars = Object.keys(allData[selectedGroup]);
+                        // 【修复】先设置 options 再赋值 value，避免 value 被清空
                         wChar.options.values = ["", ...chars];
-                        // 自动选中第一个角色
-                        if (!wChar.options.values.includes(wChar.value)) {
-                            wChar.value = chars[0] || "";
-                        }
+                        // 直接选中第一个角色，不再用 includes 判断
+                        wChar.value = chars[0] || "";
                     } else {
                         wChar.options.values = [""];
                         wChar.value = "";

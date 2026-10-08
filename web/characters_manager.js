@@ -84,6 +84,8 @@ app.registerExtension({
             .btn-success { background: #2b9348; }
             .btn-success:hover { background: #3aa858; }
             .btn-sm { padding: 5px 12px; font-size: 12px; }
+            .btn-move { background: #6c757d; }
+            .btn-move:hover { background: #5a6268; }
             .empty-hint {
                 text-align: center; color: #555; padding: 60px 20px;
                 font-size: 14px;
@@ -238,6 +240,8 @@ app.registerExtension({
                                 <span class="char-subtitle"> [${escapeHtml(group)}]</span>
                             </div>
                             <div class="char-actions">
+                                <button class="btn btn-move btn-sm btn-move-up" title="上移一位">↑</button>
+                                <button class="btn btn-move btn-sm btn-move-down" title="下移一位">↓</button>
                                 <button class="btn btn-primary btn-sm btn-edit">编辑</button>
                                 <button class="btn btn-danger btn-sm btn-delete">删除</button>
                             </div>
@@ -256,6 +260,8 @@ app.registerExtension({
                         </div>
                     `;
 
+                    card.querySelector(".btn-move-up").onclick = () => moveCharUp(group, charName);
+                    card.querySelector(".btn-move-down").onclick = () => moveCharDown(group, charName);
                     card.querySelector(".btn-edit").onclick = () => openEditModal(group, charName);
                     card.querySelector(".btn-delete").onclick = () => deleteChar(group, charName);
                     list.appendChild(card);
@@ -265,6 +271,10 @@ app.registerExtension({
             if (count === 0) {
                 list.innerHTML = `<div class="empty-hint">暂无角色数据</div>`;
             }
+            // 在"全部"视图下禁用上移下移按钮
+            document.querySelectorAll(".btn-move-up, .btn-move-down").forEach(btn => {
+                btn.disabled = activeGroup === "";
+            });
         }
 
         function escapeHtml(str) {
@@ -283,6 +293,54 @@ app.registerExtension({
             }
             await saveData();
         }
+        // ============ 角色排序：上移 ============
+        function moveCharUp(group, charName) {
+            const keys = Object.keys(allData[group]);
+            const idx = keys.indexOf(charName);
+            if (idx <= 0) return; // 已经是第一个
+
+            const prevKey = keys[idx - 1];
+            const charValue = allData[group][charName];
+            const prevValue = allData[group][prevKey];
+
+            const newGroupData = {};
+            for (let i = 0; i < keys.length; i++) {
+                if (i === idx - 1) {
+                    newGroupData[charName] = charValue;
+                } else if (i === idx) {
+                    newGroupData[prevKey] = prevValue;
+                } else {
+                    newGroupData[keys[i]] = allData[group][keys[i]];
+                }
+            }
+            allData[group] = newGroupData;
+            saveData();
+        }
+
+        // ============ 角色排序：下移 ============
+        function moveCharDown(group, charName) {
+            const keys = Object.keys(allData[group]);
+            const idx = keys.indexOf(charName);
+            if (idx >= keys.length - 1) return; // 已经是最后一个
+
+            const nextKey = keys[idx + 1];
+            const charValue = allData[group][charName];
+            const nextValue = allData[group][nextKey];
+
+            const newGroupData = {};
+            for (let i = 0; i < keys.length; i++) {
+                if (i === idx) {
+                    newGroupData[nextKey] = nextValue;
+                } else if (i === idx + 1) {
+                    newGroupData[charName] = charValue;
+                } else {
+                    newGroupData[keys[i]] = allData[group][keys[i]];
+                }
+            }
+            allData[group] = newGroupData;
+            saveData();
+        }
+
 
         // ============ 编辑弹窗 ============
         function openEditModal(group, name) {
